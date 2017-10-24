@@ -7,4 +7,6 @@ if (nI == 1) {
     n1+n2
 } else if (nI == 2) {
   n1-n2
+} else if (nI == 3) {
+  n1*n2
 }
